@@ -1,2 +1,2 @@
 git add *.py
-git commit -m "Add and commit all Python files"
+git commit -m "Adding and committing all python files"
